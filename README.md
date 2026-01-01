@@ -13,7 +13,8 @@ Blender, Unity
 
 ###
 check out what i do
-(https://n0tzena.github.io/)
+
+https://n0tzena.github.io/
 <!--
 **n0tzena/n0tzena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
