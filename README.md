@@ -7,11 +7,13 @@ You may find some of my projects in my repos ;)</p>
 ### languages & tools ⌨️
 HTML, PHP, CSS, JavaScript
 
-C#, Node.JS, TypeScript, Python
+C#, Node.JS, TypeScript, Python, MySQL
 
 Blender, Unity
 
-
+###
+check out what i do
+(https://n0tzena.github.io/)
 <!--
 **n0tzena/n0tzena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
