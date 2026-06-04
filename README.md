@@ -7,7 +7,7 @@ You may find some of my projects in my repos ;)</p>
 ### languages & tools ⌨️
 HTML, PHP, CSS, JavaScript
 
-C#, Node.JS, TypeScript, Python, MySQL
+C#, Node.JS, TypeScript, Python, MySQL, Kotlin
 
 Blender, Unity
 
